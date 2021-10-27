@@ -12,5 +12,5 @@ To write a python program to find the rank of a matrix
 ## Program:
 ## Output:
 ## Result:
-Thus the rank for the given matrix is successfully solved using a python program.
+Thus the rank for the given matrix is successfully solved by  using a python program.
 
